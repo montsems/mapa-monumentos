@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #333;
+	font-family: sans-serif
+}
+
+h1{
+	text-align: center;
+	color:whitesmoke;
+	margin-top: 1em;
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+
+iframe{
+	display: block;
+	margin: 1em auto;
+	width: 90%
+}
+
+
+ul{
+	list-style: none;
+}
+
+li a{
+	color:white;
+	
+}
